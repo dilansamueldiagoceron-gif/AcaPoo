@@ -1,0 +1,4 @@
+idCita,idPaciente,idDoctor,fecha,hora,motivo,estado,diagnostico
+CITA-0001,1024545900,D001,2026-03-10,09:00,Dolor en el pecho,Confirmada,
+CITA-0002,P002,D002,2026-03-10,10:00,Control pediátrico,Completada,Desarrollo normal; sin anomalías
+CITA-0003,P003,D004,2026-03-11,14:00,Dolor de cabeza persistente,Pendiente,

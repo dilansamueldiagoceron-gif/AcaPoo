@@ -1,0 +1,10 @@
+tipo,id,nombre,apellido,correo,telefono,fechaNac,genero,campo1,campo2,campo3
+Doctor,D003,Andrés,Ríos,a.rios@clinica.com,3207776655,1980-03-30,M,Neurología,LIC-6630,150000
+Doctor,D002,Laura,Torres,l.torres@clinica.com,3109998877,1985-11-22,F,Pediatría,LIC-4451,90000
+Doctor,D001,Carlos,Mendoza,c.mendoza@clinica.com,3001112233,1978-05-14,M,Cardiología,LIC-8821,120000
+Doctor,1223,juan perez,perez,juan@gmail,300,16-08-1990,m,neurologia,1234,120000
+Doctor,D004,Sofía,Vargas,s.vargas@clinica.com,3154445566,1990-07-18,F,Medicina General,LIC-2210,70000
+Paciente,P004,Dilan,,@cun.edu.co,3153334455,1975-04-19,F,AB+,Salud Total,Ninguna
+Paciente,P003,Nicolas,Rodriguez,johan.ramirezp@cun.edu.co,3208887766,2000-12-01,M,B+,Compensar,Ibuprofeno
+Paciente,P002,María,López,maria.l@email.com,3119876543,1985-07-25,F,A-,Nueva EPS,Ninguna
+Paciente,1024545900,giovan,Ramirez,johan.ramirezp@cun.edu.co,3003578079,1993-10-16,M,O+,Sanitas,Ninguna

@@ -324,7 +324,7 @@ public class Main {
                     "3154445566", "1990-07-18", "F", "Medicina General", "LIC-2210", 70000));
 
             // Pacientes
-            gestor.registrarPaciente(new Paciente("1024545900", "Johan", "Ramirez", "johan.ramirezp@cun.edu.co",
+            gestor.registrarPaciente(new Paciente("1024545900", "giovan", "Ramirez", "johan.ramirezp@cun.edu.co",
                     "3003578079", "1993-10-16", "M", "O+", "Sanitas", "Ninguna"));
             gestor.registrarPaciente(new Paciente("P002", "María", "López", "maria.l@email.com",
                     "3119876543", "1985-07-25", "F", "A-", "Nueva EPS", "Ninguna"));
